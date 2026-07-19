@@ -250,7 +250,7 @@ function getDailyLaw() {
 function displayLaw(law) {
     document.getElementById("law-title").textContent = law.title;
     document.getElementById("law-text").textContent = law.text;
-    document.getElementById("challenge").textContent = law.reflection;
+    document.getElementById("challenge").textContent = law.challenge;
 }
 
 displayLaw(getDailyLaw());
