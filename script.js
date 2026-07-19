@@ -48,8 +48,8 @@ challenge: "Let your actions prove your point today."
 title: "Law 10: Infection: Avoid the Unhappy and Unlucky",
 text: "Energy and attitudes can spread. Be mindful of influences around you.",
 challenge: "Notice which environments increase or drain your energy."
-}
-    {
+},
+{
 title: "Law 11: Learn to Keep People Dependent on You",
 text: "Maintain value by developing skills, knowledge, or resources that others rely on.",
 challenge: "Identify one skill you can strengthen that increases your independence."
