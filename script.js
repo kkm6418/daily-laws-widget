@@ -240,6 +240,46 @@ text: "Adaptability creates strength in changing circumstances.",
 challenge: "Practice flexibility when plans change today."
 }
 ];
+<script>
+const laws = [
+  {
+    title: "Law 1: Never Outshine the Master",
+    challenge: "Practice humility today.",
+    reflection: "Where can you recognize others?"
+  },
+  {
+    title: "Law 2: Never Put Too Much Trust in Friends",
+    challenge: "Observe actions over words.",
+    reflection: "Who has earned your trust?"
+  },
+  {
+    title: "Law 3: Conceal Your Intentions",
+    challenge: "Be strategic with your plans.",
+    reflection: "Did you reveal too much today?"
+  },
+  {
+    title: "Law 4: Always Say Less Than Necessary",
+    challenge: "Practice intentional silence.",
+    reflection: "Where could fewer words help?"
+  }
+];
+
+let currentLaw = 0;
+
+function showLaw() {
+  const law = laws[currentLaw];
+
+  document.getElementById("lawTitle").innerHTML = law.title;
+  document.getElementById("challenge").innerHTML = law.challenge;
+  document.getElementById("reflection").innerHTML = law.reflection;
+
+  currentLaw++;
+
+  if (currentLaw >= laws.length) {
+    currentLaw = 0;
+  }
+}
+</script>
 
 function getDailyLaw() {
     const today = new Date();
