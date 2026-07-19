@@ -240,7 +240,7 @@ text: "Adaptability creates strength in changing circumstances.",
 challenge: "Practice flexibility when plans change today."
 }
 ];
-<script
+</script>
 const laws = [
   {
     title: "Law 1: Never Outshine the Master",
