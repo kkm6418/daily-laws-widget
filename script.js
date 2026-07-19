@@ -49,6 +49,106 @@ title: "Law 10: Infection: Avoid the Unhappy and Unlucky",
 text: "Energy and attitudes can spread. Be mindful of influences around you.",
 challenge: "Notice which environments increase or drain your energy."
 }
+    {
+title: "Law 11: Learn to Keep People Dependent on You",
+text: "Maintain value by developing skills, knowledge, or resources that others rely on.",
+challenge: "Identify one skill you can strengthen that increases your independence."
+},
+{
+title: "Law 12: Use Selective Honesty and Generosity to Disarm Others",
+text: "A sincere gesture at the right moment can build trust and influence.",
+challenge: "Offer genuine help today without expecting immediate return."
+},
+{
+title: "Law 13: When Asking for Help, Appeal to Self-Interest",
+text: "People are more motivated when they understand how helping benefits them.",
+challenge: "Frame one request today around shared value."
+},
+{
+title: "Law 14: Pose as a Friend, Work as a Spy",
+text: "Observe carefully and gather understanding before making decisions.",
+challenge: "Listen closely today and learn something new about someone."
+},
+{
+title: "Law 15: Crush Your Enemy Totally",
+text: "Resolve conflicts completely rather than allowing problems to return.",
+challenge: "Finish one unresolved task or conflict."
+},
+{
+title: "Law 16: Use Absence to Increase Respect and Honor",
+text: "Constant availability can reduce perceived value. Space can create appreciation.",
+challenge: "Create intentional quiet time for yourself."
+},
+{
+title: "Law 17: Keep Others in Suspended Terror",
+text: "Predictability can reduce influence. Maintain flexibility.",
+challenge: "Change one routine today to practice adaptability."
+},
+{
+title: "Law 18: Do Not Build Fortresses to Protect Yourself",
+text: "Isolation can create weakness. Maintain relationships and connections.",
+challenge: "Reach out to someone who supports your growth."
+},
+{
+title: "Law 19: Know Who You Are Dealing With",
+text: "Different personalities require different approaches.",
+challenge: "Pay attention to someone's communication style today."
+},
+{
+title: "Law 20: Do Not Commit to Anyone",
+text: "Maintain independence and avoid unnecessary limitations.",
+challenge: "Review where you may be giving away too much control."
+},
+{
+title: "Law 21: Play a Sucker to Catch a Sucker",
+text: "Sometimes appearing less threatening gives you an advantage.",
+challenge: "Observe before revealing your full knowledge."
+},
+{
+title: "Law 22: Use the Surrender Tactic",
+text: "Strategic retreat can create opportunities for future success.",
+challenge: "Choose one situation where patience serves you better than force."
+},
+{
+title: "Law 23: Concentrate Your Forces",
+text: "Focus your energy on the areas with the greatest impact.",
+challenge: "Prioritize your most important goal today."
+},
+{
+title: "Law 24: Play the Perfect Courtier",
+text: "Social awareness and diplomacy create influence.",
+challenge: "Practice thoughtful communication today."
+},
+{
+title: "Law 25: Re-Create Yourself",
+text: "You have the power to intentionally shape your identity.",
+challenge: "Take one action aligned with your future self."
+},
+{
+title: "Law 26: Keep Your Hands Clean",
+text: "Protect your reputation by avoiding unnecessary blame.",
+challenge: "Handle one situation with professionalism."
+},
+{
+title: "Law 27: Play on People's Need to Believe",
+text: "People are influenced by meaning, purpose, and belonging.",
+challenge: "Notice what inspires people today."
+},
+{
+title: "Law 28: Enter Action With Boldness",
+text: "Confidence increases the chance of success.",
+challenge: "Take one bold step toward a goal."
+},
+{
+title: "Law 29: Plan All the Way to the End",
+text: "Think beyond the immediate moment.",
+challenge: "Map out your next steps for a goal."
+},
+{
+title: "Law 30: Make Your Accomplishments Seem Effortless",
+text: "Preparation allows excellence to appear natural.",
+challenge: "Prepare quietly before showing your work."
+}
 ];
 
 function getDailyLaw() {
