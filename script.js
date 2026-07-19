@@ -148,7 +148,7 @@ challenge: "Map out your next steps for a goal."
 title: "Law 30: Make Your Accomplishments Seem Effortless",
 text: "Preparation allows excellence to appear natural.",
 challenge: "Prepare quietly before showing your work."
-}
+},
 {
 title: "Law 31: Control the Options",
 text: "Give others choices that serve your goals while allowing them to feel in control.",
