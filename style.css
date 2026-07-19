@@ -39,6 +39,8 @@ body {
 #challenge {
     font-size: 13px;
     font-style: italic;
+    display: block;
+    min-height: 40px;
 }
 
 button {
