@@ -149,6 +149,96 @@ title: "Law 30: Make Your Accomplishments Seem Effortless",
 text: "Preparation allows excellence to appear natural.",
 challenge: "Prepare quietly before showing your work."
 }
+{
+title: "Law 31: Control the Options",
+text: "Give others choices that serve your goals while allowing them to feel in control.",
+challenge: "Offer choices today instead of forcing a single outcome."
+},
+{
+title: "Law 32: Play to People's Fantasies",
+text: "People are often motivated by hopes, dreams, and possibilities.",
+challenge: "Notice what inspires someone today."
+},
+{
+title: "Law 33: Discover Each Person's Thumbscrew",
+text: "Understanding people's motivations gives you insight and influence.",
+challenge: "Pay attention to what motivates someone."
+},
+{
+title: "Law 34: Be Royal in Your Own Fashion",
+text: "How you carry yourself influences how others treat you.",
+challenge: "Practice confidence through your posture and communication."
+},
+{
+title: "Law 35: Master the Art of Timing",
+text: "Knowing when to act is as important as knowing what to do.",
+challenge: "Pause and consider timing before making a decision."
+},
+{
+title: "Law 36: Disdain Things You Cannot Have",
+text: "Ignoring what you cannot control prevents it from controlling you.",
+challenge: "Release attention from one thing outside your control."
+},
+{
+title: "Law 37: Create Compelling Spectacles",
+text: "Images and presentation can create stronger impact than words alone.",
+challenge: "Improve the presentation of something important today."
+},
+{
+title: "Law 38: Think as You Like but Behave Like Others",
+text: "Adapt socially while maintaining your own beliefs.",
+challenge: "Practice flexibility in a social situation."
+},
+{
+title: "Law 39: Stir Up Waters to Catch Fish",
+text: "Emotions can reveal information, but use awareness carefully.",
+challenge: "Observe reactions before responding emotionally."
+},
+{
+title: "Law 40: Despise the Free Lunch",
+text: "Understand the hidden costs behind seemingly free opportunities.",
+challenge: "Evaluate what you receive and what you exchange."
+},
+{
+title: "Law 41: Avoid Stepping Into a Great Person's Shoes",
+text: "Create your own identity rather than living in someone else's shadow.",
+challenge: "Define one quality that makes you unique."
+},
+{
+title: "Law 42: Strike the Shepherd and the Sheep Will Scatter",
+text: "Influential individuals often shape group behavior.",
+challenge: "Identify key influences in your environment."
+},
+{
+title: "Law 43: Work on the Hearts and Minds of Others",
+text: "Lasting influence comes from understanding people.",
+challenge: "Connect with someone's perspective today."
+},
+{
+title: "Law 44: Disarm and Infuriate With the Mirror Effect",
+text: "Reflecting behavior can reveal patterns and influence interactions.",
+challenge: "Notice communication patterns today."
+},
+{
+title: "Law 45: Preach the Need for Change, but Never Reform Too Much at Once",
+text: "People accept change more easily when it happens gradually.",
+challenge: "Make one small improvement instead of many changes at once."
+},
+{
+title: "Law 46: Never Appear Too Perfect",
+text: "Small imperfections can make you more relatable.",
+challenge: "Allow yourself to be authentic today."
+},
+{
+title: "Law 47: Do Not Go Past the Mark You Aimed For",
+text: "Know when enough is enough. Overreaching can undo success.",
+challenge: "Recognize when to stop and preserve progress."
+},
+{
+title: "Law 48: Assume Formlessness",
+text: "Adaptability creates strength in changing circumstances.",
+challenge: "Practice flexibility when plans change today."
+}
 ];
 
 function getDailyLaw() {
