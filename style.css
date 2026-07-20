@@ -15,17 +15,10 @@ body {
 
 .widget {
     width: 320px;
-    height: 320px;
-
     padding: 16px;
-
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-
     background: #ffffff;
     border-radius: 18px;
-    overflow-y: auto;
+    overflow: visible;
 }
 
 /* ---------- Headings ---------- */
@@ -45,8 +38,9 @@ h2 {
 
 .card {
     background: #f7f7f7;
-    padding: 10px;
     border-radius: 12px;
+    padding: 10px;
+    margin-bottom: 12px;
 }
 
 .card p {
